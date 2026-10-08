@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I’m Jayasree S 👋
 
-<!--
-**Jsree18/Jsree18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a BCA graduate and an aspiring Python Developer with 9 months of internship experience in design, web development, and digital projects\.
 
-Here are some ideas to get you started:
+I enjoy building practical projects that combine programming, web technologies, APIs, and AI\-assisted development\. I’m currently strengthening my skills in Python, Java, JavaScript, React\.js, SQL/MySQL, REST APIs, and Git/GitHub\.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I use GitHub to showcase my projects, experiment with new technologies, and continuously improve my development skills\. I’m actively looking for opportunities where I can learn, contribute, and grow as a Software/Python Developer\.
+
+**Tech Stack:**
+🐍 Python \| ☕ Java \| 🌐 HTML \| CSS \| JavaScript \| ⚛️ React\.js
+🔗 REST APIs \| JSON \| CRUD \| SQL/MySQL
+🛠️ Git \| GitHub \| VS Code \| IntelliJ IDEA \| Postman
+🤖 Claude \| Google AI Studio \| AI\-assisted Development
