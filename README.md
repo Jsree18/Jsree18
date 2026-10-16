@@ -1,4 +1,4 @@
-Hi, I’m Jayasree S 👋
+Hi, I’m Jayasree S 
 
 I’m a BCA graduate and an aspiring Python Developer with 9 months of internship experience in design, web development, and digital projects\.
 
@@ -7,7 +7,7 @@ I enjoy building practical projects that combine programming, web technologies, 
 I use GitHub to showcase my projects, experiment with new technologies, and continuously improve my development skills\. I’m actively looking for opportunities where I can learn, contribute, and grow as a Software/Python Developer\.
 
 **Tech Stack:**
-🐍 Python \| ☕ Java \| 🌐 HTML \| CSS \| JavaScript \| ⚛️ React\.js
-🔗 REST APIs \| JSON \| CRUD \| SQL/MySQL
-🛠️ Git \| GitHub \| VS Code \| IntelliJ IDEA \| Postman
-🤖 Claude \| Google AI Studio \| AI\-assisted Development
+Python \ Java \ HTML \ CSS \ JavaScript \ React.js
+REST APIs \JSON \CRUD \SQL/MySQL
+Git \GitHub \VS Code \IntelliJ IDEA \Postman
+Claude \Google AI Studio \Ai-assisted Development
